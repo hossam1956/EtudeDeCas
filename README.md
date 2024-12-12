@@ -57,8 +57,7 @@ EtudeDeCas est une application Java basée sur Spring Boot. Elle utilise une arc
    ```bash
    mvn spring-boot:run
    ```
-5. Accédez à l'application via les endpoints REST ou GraphQL définis.
-
+   
 ## Supervision
 1. Lancez les services Prometheus et Grafana :
    ```bash
